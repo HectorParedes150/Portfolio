@@ -2,4 +2,4 @@
 
 The code is included in the report. In the report there are 6 questions asked to find relationships between customers defaulting on their loans and some of the variables in the dataset. To answer these questions, tables and visualizations were created. Then there is a logistic regression model, quadratic discriminant analysis model, and a random forest model to predict whether a customer would default on their loans. To evaluate the models a ROC curve graph, area under ROC curve, and a confusion matrix were generated. 
 
-Libraries used: tidyverse, tidymodels, discrim, 
+Libraries used: tidyverse, tidymodels, and discrim
