@@ -6,3 +6,5 @@
 
 ##Preprocessing steps
 #To prepare for the neural networks, I scaled all the explanatory variables to ranges of 0 to 1. Since the target variable is categoric, I created dummy variables for each of the categories. To generate a confusion matrix, I created a column that combines all the dummy variables depending on the result.
+
+Libraries used: Neuralnet, Caret, e1071
