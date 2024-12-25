@@ -1,1 +1,1 @@
-
+The purpose of this project was to find the top 5 counties and states with the highest cumulative COVID cases. Then creating a bar chart to showcase these top 5 counties and states. Creating a line chart showcasing the top 5 counties and states COVID cases over time. Then creating a choropleth map for the top 5 counties and states. 
